@@ -67,4 +67,49 @@ margin-right: 150px;}
     .skill-content{padding: 10px;
       box-shadow: 0 6px 50px 0 rgba(0, 0, 0,0.06);
     border-radius: 14px;}
+
+    .ready{background-color: aqua;
+    max-width: 1140px;
+   
+    justify-content: center;
+    text-align: center;
+    border-radius: 14px;
+
+margin: 150px;}
+ .ready-title{font-size: 50px;
+font-weight: bold;padding-left: 30px;}
+.ready-subtitle{color: #000000;
+font-size: 20px;}
+.bigpc{border-radius: 48px;padding-top: 20px;}
+.focus{display:block;padding: 71px 150px;}
+.form-part{max-width: 1140px;
+     justify-content: center;
     
+    border-radius: 14px;
+
+margin: 150px;
+display: flex;margin: 150px;}
+form{ justify-content: center;
+   
+    border-radius: 14px;
+    margin: 150px;
+}
+.in-touch{font-size: 98px;
+font-weight: bold;}
+form input[type="text"]{ height: 70px;
+      border-radius: 5px;
+      width: 100%;
+      background-color: white;
+      padding:10px 20px;
+      
+      border: 1px solid black;
+    }
+form input[type="email"]{ height: 70px;
+      border-radius: 5px;
+      width: 100%;
+      background-color: white;
+      padding:10px 20px;
+      margin-bottom: 24px;
+      border: 1px solid black;}
+
+   
